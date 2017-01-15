@@ -4,12 +4,12 @@
 #   "Investigating uncertainty in the minimum temperature mortality:
 #     methods and application to 52 Spanish cities"
 #   Armstrong B, Tobias A, Gasparrini A
+#   http://www.ag-myresearch.com/2017_tobias_epidem.html
 #
-# Update: 18 October 2016
-# For any problem with this code, please contact antonio.gasparrini@lshtm.ac.uk
-# Please refer to the original code for any copyright issue
-#
-#  See www.ag-myresearch.com for future updates
+# Update: 15 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2017_tobias_Epidem_Rcodedata
 ################################################################################
 
 ################################################################################

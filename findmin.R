@@ -11,7 +11,8 @@
 #   DIFFERENT APPLICATIONS.
 #
 # Update: 18 October 2016
-# AN UPDATED VERSION OF THIS FUNCTION CAN BE FOUND AT www.ag-myresearch.com
+# AN UPDATED VERSION OF THIS FUNCTION CAN BE FOUND AT:
+#   https://github.com/gasparrini/2017_tobias_Epidem_Rcodedata
 #
 ################################################################################
 #
