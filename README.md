@@ -4,7 +4,7 @@
 
 A methodology to identify the minimum of an exposure-response relationship estimated from a regression model, and to quantify the related uncertainty through empirical standard errors and confidence intervals. The method is demonstrated in the following article that illustrates an application for investigating the minimum mortality temperature (MMT) in a set of cities in Spain:
 
-Tobias A, Armstrong B, Gasparrini A. Investigating uncertainty in the minimum mortality temperature: methods and application to 52 Spanish cities. *Epidemiology*. 2017;28(1):72-76. [[freely available here](http://www.ag-myresearch.com/2017_tobias_epidem.html)]
+Tobias A, Armstrong B, Gasparrini A. Investigating uncertainty in the minimum mortality temperature: methods and application to 52 Spanish cities. *Epidemiology*. 2017;28(1):72-76. DOI: 10.1097/EDE.0000000000000567. PMID: 27748681. [[freely available here](http://www.ag-myresearch.com/2017_tobias_epidem.html)]
 
 Note that the code includes an example replicating the analysis using data for London, as the original multi-city dataset cannot be made publicly available.
 
